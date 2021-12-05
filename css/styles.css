@@ -19,3 +19,7 @@ body{
   h3{
       color: #66BFBF;
   }
+  #profilepicture{
+    background-color: red;
+    border-radius: 100%;
+  }
